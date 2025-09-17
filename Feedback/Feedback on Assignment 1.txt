@@ -1,0 +1,29 @@
+For next time can you add the number q in the file names so its easier to navigate 
+
+-------------------------------
+Q1 pg174 Q7 missing from github
+
+-------------------------------
+Well done on Q2 Q5 Q6 Q7 Q8 
+
+-------------------------------
+Seperate Q3 and Q4 into different files also wrapping the input in int prevents the user from entering a decimal without getting
+an error
+
+-------------------------------
+Q9 you dont need to wrap kgs * 2.28 in float as it is already a float by a float which will return a float.
+
+-------------------------------
+Activities in book
+Q6 you can use a double * for exponents eg 3.141 * radius**2
+
+-------------------------------
+Q8 you dont need to put float around feet and inches as it is a float by a float/int which returns a float.
+inches = height * 2.54
+feet = inches//12 (divided with no remainder)
+remainder_inches = inches%12 (the remainder)
+print('you are', feet, 'feet and', remainder_inches, 'inches')
+
+-------------------------------
+Q9 you can use a double * for exponents
+Q9 and Q10 you dont need to wrap answers in float if it is a float operated on by a int/float cause it will return a float
