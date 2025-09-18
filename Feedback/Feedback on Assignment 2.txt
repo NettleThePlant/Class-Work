@@ -1,0 +1,9 @@
+There are no questions from Assignment 2 answered in the Programme 2 folder. Instead, this folder contains a mix 
+of Assignment 3 and Assignment 4. Please upload the full set of answers for Assignment 2.
+The answered questions for Assignments 3 and 4 should be moved into their own separate folders and labelled correctly.
+Note that both Assignment 3 and Assignment 4 are incomplete:
+Assignment 3: missing Q4 and Q5
+Assignment 4: missing Q1, Q6, Q7, and Q8
+Feedback for each programme will be given in the file with the corresponding assignment number.
+
+-----------------------------------------------

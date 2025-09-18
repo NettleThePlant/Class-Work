@@ -1,0 +1,11 @@
+Please move all files for assignment 3 into a seperate clearly labeled folder.
+
+------------------------------------------
+Q1, Q6, Q7, and Q8 missing from github
+
+------------------------------------------
+Q2 the programme doesnt print the variables startRange and endRange however it prints them words, you can fix this by ending
+the quotes and putting in a comma then continuing e.g. print('The even numbers from',startRange,'to',endRange,'are')
+
+------------------------------------------
+Well done on Q3 Q4 Q5
