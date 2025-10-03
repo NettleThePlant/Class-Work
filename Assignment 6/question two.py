@@ -1,7 +1,7 @@
 '''
 Author: Abigail
-Date: 2/10/15
-Description: 
+Date: 2/10/25
+Description: Taking the users test scores and outputting the average while also returning a letter grade
 '''
 
 i = input('Enter a number ')
@@ -28,4 +28,5 @@ elif average <= 79:
 elif average <= 69:
     print('D - 69-60')
 else:
+
     print('F - 59 or less')
