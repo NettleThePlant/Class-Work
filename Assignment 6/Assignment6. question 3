@@ -1,0 +1,15 @@
+'''
+Author: Abigail
+Date: 3/10/25
+Description: Taking an integer and outputting all the even numbers starting from 0 to the number
+'''
+
+n = input('Please enter a number: ')
+
+n = int(n)
+i = 0
+
+while i <n+1:
+    if i%2 ==0:
+        print(i)
+    i=i+1
