@@ -21,12 +21,13 @@ average = total/count
 
 if average >= 90:
     print('A - 90')
-elif average <= 89:
+elif average >= 80:
     print('B - 89-80')
-elif average <= 79:
+elif average >= 70:
     print('C - 79-70')
-elif average <= 69:
+elif average >= 60:
     print('D - 69-60')
 else:
-
     print('F - 59 or less')
+
+
