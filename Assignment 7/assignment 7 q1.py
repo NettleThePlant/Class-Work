@@ -1,6 +1,6 @@
 '''
 Author: Abigail
-Date: 9/10/15
+Date: 9/10/25
 Description: checking if an given number is an armstriong number  
 '''
 
@@ -17,3 +17,4 @@ if total == int(x):
 
 else:
     print('Not armstrong number')
+
