@@ -1,11 +1,13 @@
 '''
-26/01/2026
 Abigail
+21/1/26
 '''
-L = [3,2,1]
-M = [5,6,7]
 
-N =[]
-for i in range(len(L)):
-    N.append(L[i]+M[i])
-print(N)
+print('Enter two lists of the same size.')
+
+lst_L = eval(input('Fist List: '))
+lst_M = eval(input('Second List: '))
+
+length_L = len(lst_L)
+length_M = len(lst_M)
+
